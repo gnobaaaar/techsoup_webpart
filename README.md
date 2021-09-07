@@ -1,1 +1,12 @@
-techsoup_webpart
+# techsoup_webpart
+
+
+
+**일자별 폴더로 시간 인증 화면과 함께 업로드** 💻
+
+학습 기록정리
+
+### 9월 1주차
+
+0907(화) : HTML 기본 학습
+
