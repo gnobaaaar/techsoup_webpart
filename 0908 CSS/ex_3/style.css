@@ -1,0 +1,179 @@
+/* h1 {
+  font-size: 80px;
+} */
+
+/* header {
+  color: red;
+}
+
+header h1,
+footer h1 {
+  color: blue;
+}
+
+header p,
+footer p {
+  color: green;
+} */
+
+/* footer h1 {
+  color: blue;
+}
+
+footer p {
+  color: green;
+} */
+
+/* h1 {
+  color: red;
+}
+
+#test1 {
+  color: blue;
+}
+
+.test2 {
+  color: green;
+}
+
+input[type="text"] {
+  border: solid 10px red;
+}
+input[type="password"] {
+  border: solid 10px blue;
+} */
+/* 
+.bg-1 {
+  background-color: red;
+}
+
+.font-size-1 {
+  font-size: 50px;
+}
+
+#color-1 {
+  color: red;
+}
+
+#font-style-1 {
+  font-style: italic;
+} */
+/* 
+#intro h2 {
+  color: red;
+}
+
+#intro .container p {
+  color: blue;
+} */
+/* 
+#color-2 {
+  color: pink;
+}
+
+.color-1 {
+  color: green;
+}
+
+h1 {
+  color: red;
+}
+
+h1 {
+  color: blue;
+} */
+
+/* #intro div h1 {
+  color: green;
+}
+
+#intro h1 {
+  color: blue;
+}
+
+header h1 {
+  color: red;
+}
+
+#intro .container h1 {
+  color: pink;
+} */
+
+/* div {
+  width: 100%;
+  height: 300px;
+
+  min-width: 600px;
+  max-width: 800px;
+
+  border: solid 10px red;
+  border-radius: 50px;
+
+  background-color: yellow;
+} */
+
+/* font-size: initial; */
+/* font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  text-decoration: line-through;
+  text-align: right;
+
+  background-color: pink;
+
+  opacity: 0.5;
+}
+
+ul {
+  list-style: none;
+} */
+/* 
+#bg {
+  width: 256px;
+  height: 256px;
+  background-color: yellow;
+  background-image: url(icon.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+} */
+
+/* 방문한 적이 없는 링크 :link */
+/* a:link {
+  color: red;
+}
+
+a:active {
+  color: blue;
+}
+
+a:hover {
+  color: pink;
+}
+
+input:focus {
+  border: solid 10px red;
+} */
+/* 
+li:first-child {
+  color: red;
+}
+
+li:last-child {
+  color: blue;
+}
+
+li:nth-child(2) {
+  color: gray;
+}
+
+li:nth-child(2n + 1) {
+  color: gray;
+} */
+
+/* 글자와 태그 사이의 공간 : before, after */
+li:before {
+  content: "***";
+}
+
+li:after {
+  content: "테테테테";
+}
