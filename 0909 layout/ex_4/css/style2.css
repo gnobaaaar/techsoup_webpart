@@ -1,0 +1,88 @@
+.left-2 {
+  float: left;
+  width: 100px;
+  height: 150px;
+  background-color: yellow;
+}
+
+.right-2 {
+  float: right;
+  width: 100px;
+  height: 150px;
+  background-color: blue;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+
+.clearfix {
+  clear: both;
+}
+
+/* overflow:hidden을 통해 자식의 높이값으로 부모에게 영향을 줄 수 있다 */
+
+/* section {
+  overflow: hidden;
+  width: 800px;
+  background-color: orange;
+} */
+
+/* .over-box {
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+} */
+
+.container {
+  display: flex;
+  /* flex-direction: row;
+  flex-wrap: wrap; */
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 1000px;
+  border: solid 10px red;
+}
+
+.item {
+  width: 200px;
+  height: 300px;
+}
+
+.one {
+  height: 100px;
+  background-color: yellow;
+}
+
+.two {
+  height: 200px;
+  background-color: blue;
+}
+
+.three {
+  /* width: 900px; */
+  height: 300px;
+  background-color: orange;
+}
+
+/* 가운데정렬하기 */
+.center-1 {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+
+  margin: 0 auto;
+}
+
+.center-2 {
+  width: 300px;
+  height: 300px;
+  background-color: blue;
+  position: relative;
+  left: 50%;
+  margin-left: -150px;
+}
