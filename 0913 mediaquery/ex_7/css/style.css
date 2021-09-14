@@ -1,0 +1,114 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+/* 
+320-768px : 스마트폰
+768-1024미만 : 태블릿
+1024~ : 피씨
+*/
+
+.pc {
+  /* display: none; */
+  color: red;
+  font-size: 50px;
+  background-color: pink;
+}
+
+/* @media (min-width: 320px) and (max-width: 767px) {
+  .pc {
+    color: blue;
+    font-size: 20px;
+    background-color: yellow;
+  }
+} */
+
+/* @media (min-width: 100px) and (max-width: 599px) {
+  .pc {
+    color: green;
+    font-size: 10px;
+    background-color: gray;
+  }
+} */
+
+/* .mobile {
+  display: none;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .pc {
+    display: none;
+  }
+  .mobile {
+    display: none;
+  }
+}
+
+h1 {
+  font-size: 20px;
+  background-color: yellow;
+} */
+
+/* min-width로 pc버전, 바깥이 모바일 버전이 된다 */
+/* 자연스럽게 768-1024미만이 되어버린다 -> 연속적인 미디어 쿼리 사용 */
+/* @media (min-width: 768px) {
+  h1 {
+    font-size: 40px;
+    background-color: pink;
+  }
+}
+
+@media (min-width: 1024px) {
+  h1 {
+    font-size: 80px;
+    background-color: gray;
+  }
+}
+
+.media-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 700px;
+  background-color: black;
+}
+
+.media-menu a {
+  color: black;
+  text-decoration: none;
+}
+
+.media-menu li {
+  width: 150px;
+  background-color: yellow;
+  border: solid 5px red;
+  padding: 5px 15px;
+  text-align: center;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .media-menu {
+    flex-direction: column;
+    width: 190px;
+    align-items: flex-start;
+  }
+
+  .media-menu li {
+    margin-bottom: 10px;
+  }
+
+  .media-menu li:last-child {
+    margin-bottom: 0px;
+  }
+} */
