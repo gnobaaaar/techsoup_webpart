@@ -1,10 +1,6 @@
-# techsoup_webpart
+# techsoup_webpart 💻 ⌨️
 
 <br/>
-
-
-
-**기록정리💻**
 
 <br/>
 
