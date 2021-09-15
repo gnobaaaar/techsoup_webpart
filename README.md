@@ -2,18 +2,27 @@
 
 <br/>
 
-**일자별 폴더로 시간 인증 화면과 함께 업로드** 💻
 
-학습 기록정리
 
-<br/>
+**기록정리💻**
 
 <br/>
 
-### 9월 1주차
+<br/>
 
-0907(화) : HTML 기본 학습
+### Web Programming
 
-0908(수) : CSS 기본
+0907 : HTML 기본 학습
 
-0909(목) : CSS layout
+0908 : CSS 기본
+
+0909 : CSS layout
+
+0910 : animation
+
+0913 : media query
+
+0914 : kidsgao page #1
+
+0915 : kidsgao page #2
+
