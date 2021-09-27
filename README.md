@@ -1,6 +1,4 @@
-# techsoup_webpart 💻 ⌨️
+# seoul_eumdaewoong
 
-21.09-21.12 techsoup work folder
-
-
+**일자별 폴더로 시간 인증 화면과 함께 업로드** 💻
 

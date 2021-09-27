@@ -99,6 +99,7 @@
   animation: rotateRightSaw 10000ms linear infinite;
 }
 
+/* 반시계방향 회전 */
 @keyframes rotateRightSaw {
   from {
     transform: rotate(360deg);
