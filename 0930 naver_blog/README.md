@@ -1,0 +1,1 @@
+<img src="image/0930 pic.png" alt="0930 pic" style="zoom:67%;" />
