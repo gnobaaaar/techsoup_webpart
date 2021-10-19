@@ -1,0 +1,30 @@
+:root {
+  --black: #18181a;
+  --brand-color: #9147ff;
+  --font-size-40: 40px;
+}
+
+h1 {
+  background-color: var(--black);
+  font-size: var(--font-size-40);
+  color: var(--brand-color);
+}
+
+h2 {
+  color: var(--brand-color);
+}
+
+#intro {
+  --font-color: blue;
+  --font-size: 50px;
+}
+
+#intro p {
+  font-size: var(--font-size);
+  color: var(--font-color);
+}
+
+#footer p {
+  font-size: var(--font-size);
+  color: var(--font-color);
+}
